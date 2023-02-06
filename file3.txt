@@ -1,2 +1,3 @@
 new file 3
-entering in  the branch  
+entering in  the branch 
+adding copyright
